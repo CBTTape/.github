@@ -14,4 +14,7 @@ This is work in progress and we are looking for volunteers to assist with:
 3. Documenting how to use these repositories
 4. and more that I can't think of right now
 
+Check out https://github.com/wizardofzos/cbt2git to see the current state of the project. 
+Feel free to `fork` it, create your updates, and generate pull requests with your enhancements.
+
 To help feel free to reach out to Henri Kuiper at henrikuiper@zdevops.com.
